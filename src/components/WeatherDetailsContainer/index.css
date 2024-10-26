@@ -1,0 +1,28 @@
+.forecast-for-five-days-ul {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+.weather-details-container {
+  background-color: grey;
+  border-radius: 10px;
+  border: 1px solid #0000;
+  display: flex;
+  flex-direction: column;
+  margin-right: 22px;
+}
+
+.city-name-heading {
+  font-family: roboto;
+  font-size: 24px;
+  color: #000000;
+  align-self: center;
+}
+
+.details {
+  font-family: roboto;
+  font-size: 20px;
+  color: #ffffff;
+}
